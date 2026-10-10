@@ -34,71 +34,8 @@
 
 ---
 
-### 💼 Work Experience
 
-#### 🔹 **Java Developer Intern** — *Web AI Tech Solution LLP*
-*January 2026 – July 2026*
-- Spearheaded Java-based backend development and designed resilient CRUD application features[cite: 1].
-- Implemented robust database management and maintained clean, testable code in a team-focused workflow[cite: 1].
 
-#### 🔹 **Software Engineer Trainee** — *Aptech Ltd., Mumbai*
-*September 2025*
-- Managed networking infrastructure and server configurations for 10+ machines, sustaining a 98% uptime rate[cite: 1].
-- Tuned complex SQL database queries, delivering a 15–20% performance improvement[cite: 1].
-- Resolved 25+ critical database issues using Microsoft SQL Server to enforce full data integrity[cite: 1].
-
-#### 🔹 **In-Plant Trainee** — *ITEXEMPLAR, Thane*
-*February 2022 – June 2022*
-- Completed an intensive 5-month in-plant training program working across real-world SDLC workflows[cite: 1].
-- Collaborated in a 4-engineer team delivering modules for 2 live production projects[cite: 1].
-
----
-
-### 🛠️ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">PULSE: Health & Logging Tool</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-      </p>
-      <ul>
-        <li>Centralized log aggregation engine built using Spring Boot REST APIs[cite: 1].</li>
-        <li>Automated alert dispatcher for system outages and anomalies[cite: 1].</li>
-        <li>Interactive dashboard for live log visualization using Chart.js[cite: 1].</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">Blockchain Voting System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      </p>
-      <ul>
-        <li>Cryptographic ledger enforcing tamper-proof digital ballot distribution[cite: 1].</li>
-        <li>Strict voter authentication layer preventing identity falsification[cite: 1].</li>
-        <li>Direct relational audit tracking backed by secure JDBC pipelines[cite: 1].</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">🛒 Grocery Web App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      </p>
-      <ul>
-        <li>E-commerce transaction platform with shopping cart state synchronization and user auth[cite: 1].</li>
-        <li>Concurrent order execution logic paired with inventory-locking schemas in MySQL[cite: 1].</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🎓 Education & Certifications
 
