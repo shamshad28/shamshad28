@@ -1,8 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Shamshad Khan</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Software+Engineer;Java+%26+Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Software+Engineer;Java+%26+Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Software+Engineer;Java+%26+fullstack+Developer;Spring+Boot+Enthusiast;Problem+Solver">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Software+Engineer;Java+%26+fullstack+Developer;Spring+Boot+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
